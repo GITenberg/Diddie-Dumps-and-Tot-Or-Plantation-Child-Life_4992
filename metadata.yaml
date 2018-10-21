@@ -1,5 +1,5 @@
 _repo: Diddie-Dumps-and-Tot-Or-Plantation-Child-Life_4992
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Slaves -- Juvenile fiction'
 - !lcc 'PZ'
 - !lcsh 'Plantation life -- Juvenile fiction'
+- GITenberg
 title: Diddie, Dumps, and Tot; Or, Plantation Child-Life
 url: http://www.gutenberg.org/ebooks/4992
